@@ -26,6 +26,15 @@ app.get("/get" ,(req,res)=>{
 app.post("/post",(req,res)=>{
     res.send("This is part of post method and it is very easy to understand")
 })
+
+app.delete("/delete",(req,res)=>{
+    res.send("This is Delete Method ")
+})
+
+app.patch("/patch",(req,res)=>{
+    res.send("This is Patch Method ")
+})
+// Mostly Four Methods are useing in API get,delete,post,patch 
 app.listen(3000,()=>{
-console.log("Sever is active on part 3000 methon POST !")
+console.log("Sever is active on part 3000 method POST !")
 })
