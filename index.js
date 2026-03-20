@@ -2,12 +2,12 @@
 // const app=express();
 
 // app.get("/",(req,res)=>{
-//     res.send("Satyam Vishwakarma I am SYBCA Student")
+//     res.send("This Is Get Method   CAll")
 // })
 
 // // app.listen(3000) only one time use post number other wise show the error
 // app.post("/",(req,res)=>{
-//     res.send("Satyam Vishwakarma I am SYBCA Student This is post method")
+//     res.send(" This is post method")
 // })
 
 // app.listen(3000,()=>{
