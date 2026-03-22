@@ -1,0 +1,6 @@
+step's:-
+
+1:- npm init -y =>nodejs appliction initiate
+2:- npm i express =>install package
+3:- server.js => node server.js
+koi bhi file ko run karne ky liya (node ..) after file name example 3 step me hai
