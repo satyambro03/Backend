@@ -4,3 +4,10 @@ step's:-
 2:- npm i express =>install package
 3:- server.js => node server.js
 koi bhi file ko run karne ky liya (node ..) after file name example 3 step me hai
+
+api mathod :-
+
+GET=>server se data fetch karva ho tb use krten hai
+POST=>server pr data send krna ho
+PATCH=>server pr data already hai aur us data ko update krna ho tb use krten hai
+DELETE=>server pr data hai aur us delete krna hai
