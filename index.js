@@ -5,7 +5,7 @@
 // //     res.send("This Is Get Method   CAll")
 // // })
 
-// // // app.listen(3000) only one time use post number other wise show the error
+// // // app.listen(3000) 
 // // app.post("/",(req,res)=>{
 // //     res.send(" This is post method")
 // // })
