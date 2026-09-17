@@ -17,12 +17,12 @@
 // ------------------------------------------------
 
 
-// const express=require('express');
-// const app=express();
-// //("/","/get","/post","/Homepage","/contact" , etc) this is rule of set to focus this method 
-// app.get("/get" ,(req,res)=>{
-//     res.send("Hello Word In India!")
-// })
+const express=require('express');
+const app=express();
+//("/","/get","/post","/Homepage","/contact" , etc) this is rule of set to focus this method 
+app.get("/get" ,(req,res)=>{
+    res.send("Hello Word In India!")
+})
 
 // ----------------------------------------------------
 
