@@ -8,7 +8,7 @@ This Backend Setup Help Full Of Studentd's learning
 
 Package Installation important
 
-Rast Api :-
+Rast Api :- [Mostly Use This API ]
 
 1:- GET
 2:- POST
