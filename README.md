@@ -4,6 +4,8 @@ This Backend Setup Help Full Of Studentd's learning
 
 2:- npm i express =>install package
 
+3:- node file_name => run to file use this command :- node file_name > for exapmle :- [node fun.js]
+
 Package Installation important
 
 Rast Api :-
@@ -13,4 +15,4 @@ Rast Api :-
 3:- PATCH
 4:- DELETE
 
-run to file use this command :- node file_name > for exapmle :- [node fun.js]
+
