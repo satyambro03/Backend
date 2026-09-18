@@ -15,7 +15,7 @@ app.get("/",(req ,res)=>{
 //     res.send("This is Patch Method Request 😎")
 // })
 
-app.delete("/delete",(req,res)=>{
-    res.send("This is delete method request 🔗")
-})
+// app.delete("/delete",(req,res)=>{
+//     res.send("This is delete method request 🔗")
+// })
 module.exports =app
