@@ -12,3 +12,5 @@ Rast Api :-
 2:- POST
 3:- PATCH
 4:- DELETE
+
+run to file use this command :- node file_name > for exapmle :- [node fun.js]
