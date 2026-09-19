@@ -1,6 +1,6 @@
 const figlet_tool = require('figlet');
 
-figlet_tool("Astraa", function (err, data) {
+figlet_tool("Hello World 😎", function (err, data) {
   if (err) {
     console.log("Something went wrong...");
     console.dir(err);
