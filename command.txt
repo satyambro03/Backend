@@ -2,7 +2,8 @@ step's:-
 
 1:- npm init -y =>nodejs appliction initiate
 2:- npm i express =>install package
-3:- server.js => node server.js
+3:- server.js => node server.js =>> node file_name => run to file use this command :- node file_name > for exapmle :- [node fun.js]
+
 koi bhi file ko run/start karne ky liya (node ..) after file name example 3 step me hai
 
 api mathod :-
